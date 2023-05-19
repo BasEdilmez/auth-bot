@@ -1,7 +1,7 @@
 {
   "prefix": "+",
   "mongoURI": "mongodb://localhost/auth-db",
-  "token": "",
+  "token": "MTA3NDc0MDE0OTAzODA5MjM0OA.Gh9S9N.BEIhF7ABN_xXSZjUS8za8Qi4NiFNxYSf1VLPpM",
   "paypal_redirect": "https://www.paypal.com",
   "memberships": ["Renewal", "Lifetime", "F&F", "Beta", "Tester"],
   "ownerRole": "Staff",
